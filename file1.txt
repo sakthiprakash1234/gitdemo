@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main branch changes 
+=======
+"content from new feature"
+>>>>>>> feature_branch
